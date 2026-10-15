@@ -1,5 +1,5 @@
 
-let temperatura = 18; // en °C
+let temperatura = 18;
  
 if (temperatura < 10) {
   console.log("Hace frío");
